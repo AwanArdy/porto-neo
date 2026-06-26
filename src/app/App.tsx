@@ -142,7 +142,7 @@ export default function App() {
             >
               Awan
               <br />
-              <span style={{ WebkitTextStroke: "3px black", color: "transparent" }}>Ardy</span>
+              <span style={{ WebkitTextStroke: "2px black", color: "transparent" }}>Ardy</span>
             </h1>
             <div className="flex items-center gap-4 mb-8">
               <div className="h-1 w-16 bg-black flex-shrink-0" />
